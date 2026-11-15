@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://posthermit.github.io/sitemap.xml

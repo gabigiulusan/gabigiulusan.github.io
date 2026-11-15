@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Mai nimicuri</title>
+    <link href="https://posthermit.github.io/feed.xml" rel="self" />
+    <link href="https://posthermit.github.io" />
+    <updated>2026-11-12T19:17:59+02:00</updated>
+    <author>
+        <name>Gabi Giulușan</name>
+    </author>
+    <id>https://posthermit.github.io</id>
+
+    <entry>
+        <title>Primul meu titlu merge aici</title>
+        <author>
+            <name>Gabi Giulușan</name>
+        </author>
+        <link href="https://posthermit.github.io/primul-meu-titlu-merge-aici/"/>
+        <id>https://posthermit.github.io/primul-meu-titlu-merge-aici/</id>
+
+        <updated>2026-11-12T19:17:59+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hai să vedem cum merge cu adevărat.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Hai să vedem cum merge cu adevărat.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
